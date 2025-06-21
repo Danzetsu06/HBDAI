@@ -230,6 +230,15 @@ body {
   transition: 0.3s ease;
 }
 
+p strong{
+  font-size: 3rem;
+  color: red;
+}
+
+strong .special{
+  color :#347a9d;
+}
+
 /* .nine > p .btn-wa:hover {
   cursor: pointer;
   opacity: 0.8;
