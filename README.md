@@ -1,2 +1,0 @@
-# HBDAI
-FOR U
